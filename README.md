@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning front-end development.
 # Links
 >[patika.dev profile link](https://app.patika.dev/professor) 
+>
 >[Twitter](https://twitter.com/mehmetakifozgur)
 <!---
 mehmetakifozgurer/mehmetakifozgurer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
